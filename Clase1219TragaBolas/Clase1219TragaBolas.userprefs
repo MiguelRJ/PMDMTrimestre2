@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\FinJuego.cs">
+    <Files>
+      <File FileName="Assets\script\ControladorDelJugador.cs" Line="26" Column="10" />
+      <File FileName="Assets\script\ControladorDeLaCamara.cs" Line="12" Column="3" />
+      <File FileName="Assets\script\Tiempo.cs" Line="20" Column="4" />
+      <File FileName="Assets\script\FinJuego.cs" Line="18" Column="37" />
+      <File FileName="Assets\script\Giro.cs" Line="11" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
