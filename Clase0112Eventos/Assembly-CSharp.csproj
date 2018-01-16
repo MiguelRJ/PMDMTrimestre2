@@ -46,8 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Botones.cs" />
      <Compile Include="Assets\ControlOnGui.cs" />
      <Compile Include="Assets\EventosRaton\ControlGeneral.cs" />
+     <Compile Include="Assets\GestionGui.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
