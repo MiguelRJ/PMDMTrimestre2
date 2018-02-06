@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Emisor.cs">
+    <Files>
+      <File FileName="Assets\Receptor.cs" Line="21" Column="32" />
+      <File FileName="Assets\Emisor.cs" Line="29" Column="4" />
+      <File FileName="Assets\hijo1.cs" Line="15" Column="3" />
+      <File FileName="Assets\hijo2.cs" Line="18" Column="25" />
+      <File FileName="Assets\hijo1_1.cs" Line="18" Column="10" />
+      <File FileName="Assets\padre.cs" Line="18" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
