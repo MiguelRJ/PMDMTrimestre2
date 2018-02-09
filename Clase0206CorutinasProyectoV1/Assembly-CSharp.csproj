@@ -46,7 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Version1IF.cs" />
+     <Compile Include="Assets\script\Version1IF.cs" />
+     <Compile Include="Assets\script\Version2Corutinas.cs" />
+     <Compile Include="Assets\script\Version3.cs" />
+     <Compile Include="Assets\script\Version4PararCorrutina.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
